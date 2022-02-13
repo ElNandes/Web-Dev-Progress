@@ -1,0 +1,1 @@
+The content of this project were done with the help of tutorials followed from <a href="www.freecodecamp.org">. In particular the projects here were followed from <a href="https://github.com/john-smilga/javascript-basic-projects"> and <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2678s">
